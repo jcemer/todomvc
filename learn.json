@@ -42,6 +42,25 @@
 			}]
 		}]
 	},
+	"ampersandjs": {
+		"name": "Ampersand.js",
+		"description": "A highly modular, loosely coupled, non-frameworky framework for building advanced JavaScript apps.",
+		"homepage": "ampersandjs.com/",
+		"examples": [{
+			"name": "Architecture Example",
+			"url": "labs/architecture-examples/ampersand"
+		}],
+		"link_groups": [{
+			"heading": "Official Resources",
+			"links": [{
+				"name": "Learn",
+				"url": "http://ampersandjs.com/learn"
+			}, {
+				"name": "Documentation",
+				"url": "http://ampersandjs.com/docs"
+			}]
+		}]
+	},
 	"angularjs": {
 		"name": "AngularJS",
 		"description": "HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop.",
