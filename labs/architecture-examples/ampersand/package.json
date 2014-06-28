@@ -1,0 +1,19 @@
+{
+  "name": "todomvc-ampersand",
+  "description": "TodoMVC todo app using ampersand.js",
+  "version": "0.0.0",
+  "devDependencies": {
+    "ampersand-form-view": "^1.0.0",
+    "ampersand-input-view": "^1.2.3",
+    "ampersand-model": "^3.0.1",
+    "ampersand-rest-collection": "^1.1.0",
+    "ampersand-router": "^1.0.1",
+    "ampersand-view": "6.0.3",
+    "ampersand-view-switcher": "^1.0.2",
+    "underscore": "~1.6.0",
+    "browserify": "~4.2.0"
+  },
+  "scripts": {
+    "compile": "browserify js/app.js -o js/bundle.js"
+  }
+}
